@@ -1,0 +1,2 @@
+# Rust Bot
+ A Bot
